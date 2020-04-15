@@ -1,5 +1,6 @@
 
 .. _master/business-partner/client:
+.. _ERPyA: http://erpya.com
 
 ===================================
 **Socio del Negocio Cliente**
