@@ -13,6 +13,5 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     :maxdepth: 2
     :numbered:
 
-    general/procedures-openproject/index
-    
+    general/index
     adempiere/index

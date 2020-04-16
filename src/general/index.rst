@@ -1,8 +1,8 @@
-.. _src/adempiere
+.. _src/general
 .. _ERPyA: http://erpya.com
 
 =====================================
-**ADempiere ERP/CRM**
+**Procedimientos Generales**
 =====================================
 
 La mayor parte de las empresas adquieren distintos software para cubrir las diferentes necesidades de sus organizaciones,pero tarde se dan cuenta de lo complicado que es  compartir y unificar la información que cada modulo y organización obtienen.
@@ -12,12 +12,4 @@ ADempiere por su condición de ERP ofrece todo lo que una compañía requiere en
 .. toctree::
     :maxdepth: 1
 
-    asset-management/index
-    master/index
-    material-management/index
-    open-items/index
-    performance-analysis/index
-    quote-to-invoice/index
-    requisition-to-invoice/index
-    returns/index
-    withholding-management
+    procedures-openproject/index
